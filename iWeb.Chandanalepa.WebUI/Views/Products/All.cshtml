@@ -1,5 +1,4 @@
-﻿
-@{
+﻿@{
     ViewBag.Title = "All";
 }
 <link href="~/Content/Products.css" rel="stylesheet" />
@@ -9,8 +8,8 @@
             <div class="row">
                 <h1 class="pageTitle">Products / Buy Online</h1>
 
-                    <div class="padding-left-10 productCategory">Herbal Creams</div>                   
-                        @for (int i = 0; i < 5; i++)
+                <div class="padding-left-10 productCategory">Herbal Creams</div>
+                @for (int i = 0; i < 5; i++)
                         {
                             <a href="/Products/View/Chandanalepa-Herbal-Beauty-Cream">
                                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 no-margin no-padding">
@@ -41,29 +40,29 @@
                                     </div>
                                 </div>
                             </a>
-                        }
+                }
                    
             </div>
-        </div>        
+        </div>
     </div>
 
-        
 
-        <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-            <div class="productSearch">
-                <div class="row">
-                    <h1>Search Products</h1>
-                    <div class="form-group">
-                        <label class="control-label" for="form-group-input">Search</label>
-                        <input type="text" class="form-control" id="form-group-input" placeholder="Enter Search Key Words">
-                        <div class="margin-top-10">
-                            <button type="button" class="btn btn-warning"><span class="glyphicon glyphicon-search"></span> Search</button>
-                        </div>
+
+    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+        <div class="productSearch">
+            <div class="row">
+                <h1>Search Products</h1>
+                <div class="form-group">
+                    <label class="control-label" for="form-group-input">Search</label>
+                    <input type="text" class="form-control" id="form-group-input" placeholder="Enter Search Key Words">
+                    <div class="margin-top-10">
+                        <button type="button" class="btn btn-warning"><span class="glyphicon glyphicon-search"></span>Search</button>
                     </div>
                 </div>
-
             </div>
+
         </div>
+    </div>
 
 </div>
 

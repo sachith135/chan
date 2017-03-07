@@ -119,14 +119,11 @@ p{
 }
 
 body {
-    padding-top: 10px;
+    padding-top: 0;
     padding-bottom: 20px;
     font-family: 'Bree Serif', serif;
-      background: url('../Images/Assets/header-home-top.png');
-      /*background-size: 100%;
-      background-repeat:repeat-x;
-      background-color:#fe6525;*/
-      background-repeat:no-repeat;
+    background: url(../Images/Assets/header-home-top.png);
+    background-repeat: no-repeat;
 }
 
 
@@ -164,7 +161,6 @@ textarea {
 .header{
     margin-top:5px;
     margin-bottom:5px;
-    background-image:url(../Images/Assets/header-bg-wide.png);
 }
 
 .header-fonts{
@@ -381,13 +377,14 @@ textarea {
 
 .navbar-nav>li>.dropdown-menu {
   margin-top: 1px;
-  border-top-left-radius: 4px;
-  border-top-right-radius: 4px;
+  border-radius:0px;
+ padding: 3em 6em;
 }
 
 .navbar-default .navbar-nav>li>a {
   width: auto;
  color:#fff !important;
+ text-transform:uppercase;
 }
 
 .mega-dropdown {
@@ -463,6 +460,9 @@ textarea {
   font-size: 18px;
 
 }
+.mega-dropdown-menu .dropdown-header a{
+    padding: 0 !important;
+}
 .mega-dropdown-menu .no-padding{
   padding-left:0px !important;
   padding-right:0px !important;
@@ -501,7 +501,7 @@ textarea {
 }
 .dropdown-menu {
     background-color: rgba(255, 255, 255, 0.99) !important;
-    border-bottom:solid 3px #4b2b16;
+    border-bottom:solid 5px #4b2b16;
 }
 
 
@@ -539,7 +539,16 @@ textarea {
 .text-right {
     text-align:right;
 }
-
+.btn-primary {
+    background-color: #fefefe;
+    border-color: #4b2b16;
+    color: #3a3a3a;
+    border-radius: 0;
+}
+.btn-primary:hover {
+    background-color: #f3b958;
+   border-color: rgba(255, 255, 255, 0.3);
+}
 
 /*------*/
 
@@ -571,9 +580,63 @@ footer .content-bg-black-dark {
     background-position: 90% center;
 }
 
+.main-wrapper {
+    background-image: url(../Images/Assets/header-bg-wide.png);
+    background-repeat: no-repeat;
+    margin-top: -10px;
+    padding-top: 7px;
+    background-size: 94%;
+}
+.body-content iframe {
+        border-top: solid 10px #d08200
+}
+
 /*-----*/
 
+/* v carousal */
+
+.carousel.vertical .carousel-inner .item {
+  -webkit-transition: 0.6s ease-in-out top;
+     -moz-transition: 0.6s ease-in-out top;
+      -ms-transition: 0.6s ease-in-out top;
+       -o-transition: 0.6s ease-in-out top;
+          transition: 0.6s ease-in-out top;
+}
+
+ .carousel.vertical .active {
+  top: 0;
+}
+
+ .carousel.vertical .next {
+  top: 100%;
+}
+
+ .carousel.vertical .prev {
+  top: -100%;
+}
+
+ .carousel.vertical .next.left,
+.carousel.vertical .prev.right {
+  top: 0;
+}
+
+ .carousel.vertical .active.left {
+  top: -100%;
+}
+
+ .carousel.vertical .active.right {
+  top: 100%;
+}
+
+ .carousel.vertical .item {
+    left: 0;
+}​
+
+/*--------*/
+
+
 /* Smartphones (portrait and landscape) ----------- */
+
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 /* Styles */
 }
