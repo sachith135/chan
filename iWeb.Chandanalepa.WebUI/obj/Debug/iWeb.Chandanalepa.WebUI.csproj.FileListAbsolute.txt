@@ -1,0 +1,210 @@
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\ApplicationInsights.config
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\roslyn\csc.exe
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\roslyn\vbc.exe
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\roslyn\VBCSCompiler.exe
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\iWeb.Chandanalepa.WebUI.dll.config
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\iWeb.Chandanalepa.WebUI.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\iWeb.Chandanalepa.WebUI.pdb
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.Web.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.WindowsServer.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Microsoft.ApplicationInsights.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\System.Web.Helpers.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\System.Web.Mvc.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\System.Web.Razor.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.Razor.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.Web.xml
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.WindowsServer.xml
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Microsoft.ApplicationInsights.xml
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\System.Web.Razor.xml
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.xml
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.Razor.xml
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\System.Web.Helpers.xml
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\System.Web.Mvc.xml
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\obj\Debug\iWeb.Chandanalepa.WebUI.csprojResolveAssemblyReference.cache
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\obj\Debug\iWeb.Chandanalepa.WebUI.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\obj\Debug\iWeb.Chandanalepa.WebUI.pdb
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Antlr3.Runtime.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Newtonsoft.Json.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\System.Web.Optimization.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\WebGrease.dll
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Antlr3.Runtime.pdb
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\Newtonsoft.Json.xml
+D:\iWebProjects_GIT\iWeb.Chandanalepa\iWeb.Chandanalepa.WebUI\bin\System.Web.Optimization.xml
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\ApplicationInsights.config
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\csc.exe
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\vbc.exe
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\iWeb.Chandanalepa.WebUI.dll.config
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\iWeb.Chandanalepa.WebUI.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\iWeb.Chandanalepa.WebUI.pdb
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Razor.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\WebGrease.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Optimization.xml
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Razor.xml
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\obj\Debug\iWeb.Chandanalepa.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\obj\Debug\iWeb.Chandanalepa.WebUI.dll
+C:\Users\Sachith\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\obj\Debug\iWeb.Chandanalepa.WebUI.pdb
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\ApplicationInsights.config
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\csc.exe
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\System.Collections.Immutable.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\vbc.exe
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\VBCSCompiler.exe
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\VBCSCompiler.exe.config
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\iWeb.Chandanalepa.WebUI.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\iWeb.Chandanalepa.WebUI.pdb
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Antlr3.Runtime.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.Web.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.WindowsServer.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.ApplicationInsights.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Newtonsoft.Json.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Helpers.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Mvc.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Optimization.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Razor.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.Deployment.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.Razor.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\WebGrease.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Antlr3.Runtime.pdb
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.Web.xml
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.WindowsServer.xml
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.ApplicationInsights.xml
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Newtonsoft.Json.xml
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Optimization.xml
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Razor.xml
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.xml
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.Deployment.xml
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.Razor.xml
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Helpers.xml
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Mvc.xml
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\obj\Debug\iWeb.Chandanalepa.WebUI.csprojResolveAssemblyReference.cache
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\obj\Debug\iWeb.Chandanalepa.WebUI.dll
+E:\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\obj\Debug\iWeb.Chandanalepa.WebUI.pdb
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\ApplicationInsights.config
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\csc.exe
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\vbc.exe
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\iWeb.Chandanalepa.WebUI.dll.config
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\iWeb.Chandanalepa.WebUI.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\iWeb.Chandanalepa.WebUI.pdb
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Helpers.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Mvc.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Optimization.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Razor.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\WebGrease.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Optimization.xml
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Razor.xml
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.xml
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Helpers.xml
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\bin\System.Web.Mvc.xml
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\obj\Debug\iWeb.Chandanalepa.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\obj\Debug\iWeb.Chandanalepa.WebUI.dll
+C:\Users\SachithN\Desktop\Chandanalepa MVC\iWeb.Chandanalepa.WebUI\obj\Debug\iWeb.Chandanalepa.WebUI.pdb

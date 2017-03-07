@@ -1,0 +1,73 @@
+﻿
+@{
+    ViewBag.Title = "All";
+}
+<link href="~/Content/Products.css" rel="stylesheet" />
+<div class="container margin-bottom-50">
+    <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
+        <div class="productsContainer">
+            <div class="row">
+                <h1 class="pageTitle">Products / Buy Online</h1>
+
+                    <div class="padding-left-10 productCategory">Herbal Creams</div>                   
+                        @for (int i = 0; i < 5; i++)
+                        {
+                            <a href="/Products/View/Chandanalepa-Herbal-Beauty-Cream">
+                                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 no-margin no-padding">
+                                    <div class="single-product padding-bottom-15">
+                                        <div class="product">
+                                            <div>
+                                                <img src="~/Images/Products/Chandanalepa-Cream.png" class="img-responsive img-rounded img-full" />
+                                            </div>
+
+                                            <div class="text-center nameArea">
+                                                <h4>Chandanalepa Herbal Cream</h4>
+                                            </div>
+
+                                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 priceArea">
+                                                Rs. 360.00
+                                            </div>
+
+                                            <div class="btnArea">
+                                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                                    <a class="btn btn-warning" href="/Products/View/Chandanalepa-Herbal-Beauty-Cream">Add To Cart</a>
+                                                </div>
+                                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                                    <a class="btn btn-info" href="/Products/View/Chandanalepa-Herbal-Beauty-Cream">View More</a>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        }
+                   
+            </div>
+        </div>        
+    </div>
+
+        
+
+        <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+            <div class="productSearch">
+                <div class="row">
+                    <h1>Search Products</h1>
+                    <div class="form-group">
+                        <label class="control-label" for="form-group-input">Search</label>
+                        <input type="text" class="form-control" id="form-group-input" placeholder="Enter Search Key Words">
+                        <div class="margin-top-10">
+                            <button type="button" class="btn btn-warning"><span class="glyphicon glyphicon-search"></span> Search</button>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+</div>
+
+
+
+
+

@@ -1,0 +1,60 @@
+﻿
+    /* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+    .product {
+        height: 500px !important;
+    }
+
+    .header .logo {
+        width: 300px !important;
+        margin: 0 auto !important;
+    }
+
+    .deal-row h3 {
+        font-weight: 600;
+        font-size: 20px;
+    }
+
+    .shortDescriptionAreaContainer {
+        clear: both;
+        display: block !important;
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+
+    .shortDescriptionArea {
+        margin: 0px !important;
+        padding: 0px !important;
+        display: block !important;
+    }
+
+        .shortDescriptionArea p {
+            padding-top: 15px !important;
+        }
+
+    .sideHomePageSldierSideBanners {
+        margin-top: 15px !important;
+        padding:0px !important;
+    }
+    /*
+    .sideHomePageSldierSideBanners:first-child{
+        padding-right:8px !important;
+    }
+
+      .sideHomePageSldierSideBanners:last-child{
+        padding-left:8px !important;
+    }*/
+
+    .vouchersSoldText{
+        font-size:18px !important;
+        padding-top:10px;
+        text-align:left !important;
+    }
+
+     .vouchersSoldValue{
+        font-size:20px !important;
+        padding-top:10px;
+        text-align:left !important;
+    }
+}

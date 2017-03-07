@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Blog";
+}
+
+<div class="row">
+    <div class="container">
+
+        <div class="pageTitle"> <h1>Latest Blogs</h1></div>
+        <div class="content-para margin-top-20 margin-bottom-50">
+
+            @for (int i = 0; i < 5; i++)
+            {
+                    <div class="row margin-bottom-20">
+                
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                                <img src="~/Images/JoinUs/joinus-2.jpg" class="img-responsive" />
+                            </div>
+
+                            <div class="col-lg-9 col-md-9 col-sm-6 col-xs-12">
+                                <a  href="/blog/view/blog-heading-url"><h2>Blog Heading Goes Here</h2></a>
+                                <p>
+                                    With all due respect to other companies, we are honored to be able to offer the highest remunerations in the cosmetic industry. We aspire to be identified as a competent and respectful global organization that sets forth soul interest in our employees and their wellbeing while serving as a pillar of strength on their way towards success.
+                                    Keeping in mind that we are one Team, one Family.
+                                    <br />
+                                    <a href="/blog/view/blog-heading-url" class="btn btn-warning" >Read More</a>
+                                </p>
+                            </div>
+               
+                        </div>
+            }
+        </div>
+    </div>
+</div>
+
