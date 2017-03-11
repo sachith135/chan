@@ -5,44 +5,61 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewBag.Title | Chandanalepa From Veyangoda Sanjeewaka Ayurwedha.</title>
 
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=PT+Sans+Caption" rel="stylesheet">
-
     @RenderSection("head", required: false)
     @Styles.Render("~/Content/css")
     <script src="~/Scripts/modernizr-2.6.2.js"></script>
-   
-</head>
-<body> 
-   <div class="main-wrapper">
-         <div class="homeSliderContainerWithHeader" >
-        <div class="container header">
-            <div class="row">
-                <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12" style="padding-top: 5px;">
-                    <img src="~/Images/logo2.png" class="img-responsive logo" />
-                </div>
-                <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 header-fonts text-center wrapper-user-info">
-                <ul>
-                <li>
-                   <span class="glyphicon glyphicon-shopping-cart btn-lg"> 
-                   </span>
-                        <br /
-                        <span>0 Items(s)</span>
-                    </li>
-                    <li>
-                        <span class="glyphicon glyphicon-user btn-lg dropdown-toggle cursor-poiner" data-toggle="dropdown"></span><a href="" class="dropdown-toggle" data-toggle="dropdown">
-                            <br />                        
-                        Login</a>   
-                    </li>
 
-                    </ul>
+</head>
+<body>
+   
+    <div class="main-wrapper">
+        <div class="homeSliderContainerWithHeader">
+            <div class="container header">
+             
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                        <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12 wrapper-toggle-login">
+                         <div class="col-lg-2 col-md-3 col-xs-5 col-sm-5">
+ <a class="dropdown-toggle" data-toggle="dropdown" href="javascript: return void(0)">
+                           <i class="fa fa-bars" aria-hidden="true"></i>
+                          </a>
+                          <ul class="dropdown-menu">
+                              <li><a href="#">Login</a></li>
+                            <li><a href="#">My Account</a></li>
+                          </ul>
+                         </div>
+            <div class="col-lg-10 col-md-10 col-xs-7 col-sm-7">
+                <div class="search-top">
+                <input type="text" class="form-control input-sm" maxlength="64" placeholder="Search">
+                <i class="fa fa-search" aria-hidden="true"></i>
+                </div>
+            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
+                            <img src="~/Images/logo_text.png" class="img-responsive logo" />
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
+                            <div class="header-fonts text-center wrapper-user-info">
+                                <ul>
+                                    <li>
+                                      <span class="wrapper-header-cart">
+                                         <i class="fa fa-shopping-cart" aria-hidden="true"></i>
+                                        <span>0</span>
+                                      </span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
 
         <div class="container-fluid">
             <nav class="navbar navbar-default ">
@@ -59,104 +76,115 @@
                         <li class="dropdown mega-dropdown"><a href="~/home" class="dropdown-toggle" data-toggle="dropdown">Home</a>
                             @*<ul class="dropdown-menu mega-dropdown-menu row sub-nav">
                                 <li class="col-sm-5">
-                                    <div >
+                                    <div>
                                         <center>
                                             <iframe width="90%"  src="https://www.youtube.com/embed/aoHFooE2ZoI" frameborder="0" allowfullscreen></iframe>
                                         </center>
                                     </div>
                                 </li>
                                 <li class="col-sm-6">
-	                                <ul>
-							            <li class="dropdown-header no-padding">Description</li>
-							        
-                                        <li>  <p>
+                                    <ul>
+                                        <li class="dropdown-header no-padding">Description</li>
+
+                                        <li>
+                                            <p>
                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent cursus vestibulum eros, non gravida sem cursus sit amet. Nam quis sodales augue. Integer quis dignissim elit.
                                             </p>
 
                                         </li>
-						            </ul>
+                                    </ul>
                                 </li>
-                            </ul>*@
+                            </ul>
+                            *@
                         </li>
                         <li class="dropdown mega-dropdown ">
-                            <a class="dropdown-toggle " data-toggle="dropdown"  href="~/products/all">Products</a>
+                            <a class="dropdown-toggle " data-toggle="dropdown" href="~/products/all">Products</a>
                             <ul class="dropdown-menu mega-dropdown-menu ">
-					        <li class="col-sm-3">
-						        <ul>
-							        <li class="dropdown-header no-padding">Our Products</li>                            
-                                    <div id="menCollection" class="carousel slide" data-ride="carousel">
-                                        <div class="carousel-inner">
-                                        <div class="item active">
-                                            <a href="#"><img src="~/Images/Products/Chandanalepa-Cream.png" class="img-responsive" alt="product 1"></a>
-                                            <h4><small>Lorem ipsum dolor sit amet</small></h4>                                        
-                                            <button class="btn btn-primary" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>        
-                                        </div><!-- End Item -->
-                                        <div class="item">
-                                            <a href="#"><img src="~/Images/Products/Chandanalepa-Cream.png" class="img-responsive" alt="product 2"></a>
-                                            <h4><small>Lorem ipsum dolor sit amet</small></h4>                                        
-                                            <button class="btn btn-primary" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>   
-                                        </div><!-- End Item -->
-                                        <div class="item">
-                                            <a href="#"><img src="~/Images/Products/Chandanalepa-Cream.png" class="img-responsive" alt="product 3"></a>
-                                            <h4><small>Lorem ipsum dolor sit amet</small></h4>                                        
-                                            <button class="btn btn-primary" type="button"><span class="glyphicon glyphicon-heart"></span> Add to Wishlist</button>   
-                                        </div><!-- End Item -->                                
-                                        </div><!-- End Carousel Inner -->
-                                    </div><!-- /.carousel -->
-						        </ul>
-					        </li>
-					        <li class="col-sm-3">
-						        <ul>
-							        <li class="dropdown-header"><a href="~/products/all">All Products</a></li>
-							        <li><a href="~/products/all">All Products</a></li>
-                                    <li><a href="#">Lorem ipsum dolor </a></li>
-                                    <li><a href="#">Lorem ipsum dolor </a></li>
-							        <li><a href="#">Lorem ipsum dolor </a></li>
-							        <li class="divider"></li>
-							        <li class="dropdown-header">Lorem ipsum dolor </li>
-                                    <li><a href="#">Lorem ipsum dolor </a></li>
-							        <li><a href="#">Lorem ipsum dolor </a></li>
-						        </ul>
-					        </li>
-					        <li class="col-sm-3">
-						        <ul>
-							        <li class="dropdown-header">Lorem ipsum dolor</li>
-							        <li><a href="#">Lorem ipsum dolor </a></li>
-                                    <li><a href="#">Lorem ipsum dolor </a></li>
-                                    <li><a href="#">Lorem ipsum dolor </a></li>
-							        <li><a href="#">Lorem ipsum dolor </a></li>							
-						        </ul>
-					        </li>
-					        <li class="col-sm-3">
-						        <ul>
-							        <li class="dropdown-header">Lorem ipsum dolor</li>
-							        <li><a href="#">Lorem ipsum dolor </a></li>
-                                    <li><a href="#">Lorem ipsum dolor </a></li>
-                                    <li><a href="#">Lorem ipsum dolor </a></li>
-							        <li><a href="#">Lorem ipsum dolor </a></li>	                        
-						        </ul>
-					        </li>
-				            </ul>				
+                                <li class="col-sm-3">
+                                    <ul>
+                                        <li class="dropdown-header no-padding">Our Products</li>
+                                        <div id="menCollection" class="carousel slide" data-ride="carousel">
+                                            <div class="carousel-inner">
+                                                <div class="item active">
+                                                    <a href="#">
+                                                        <img src="~/Images/Products/Chandanalepa-Cream.png" class="img-responsive" alt="product 1"></a>
+                                                    <h4><small>Lorem ipsum dolor sit amet</small></h4>
+                                                    <button class="btn btn-primary" type="button"><span class="glyphicon glyphicon-heart"></span>Add to Wishlist</button>
+                                                </div>
+                                                <!-- End Item -->
+                                                <div class="item">
+                                                    <a href="#">
+                                                        <img src="~/Images/Products/Chandanalepa-Cream.png" class="img-responsive" alt="product 2"></a>
+                                                    <h4><small>Lorem ipsum dolor sit amet</small></h4>
+                                                    <button class="btn btn-primary" type="button"><span class="glyphicon glyphicon-heart"></span>Add to Wishlist</button>
+                                                </div>
+                                                <!-- End Item -->
+                                                <div class="item">
+                                                    <a href="#">
+                                                        <img src="~/Images/Products/Chandanalepa-Cream.png" class="img-responsive" alt="product 3"></a>
+                                                    <h4><small>Lorem ipsum dolor sit amet</small></h4>
+                                                    <button class="btn btn-primary" type="button"><span class="glyphicon glyphicon-heart"></span>Add to Wishlist</button>
+                                                </div>
+                                                <!-- End Item -->
+                                            </div>
+                                            <!-- End Carousel Inner -->
+                                        </div>
+                                        <!-- /.carousel -->
+                                    </ul>
+                                </li>
+                                <li class="col-sm-3">
+                                    <ul>
+                                        <li class="dropdown-header"><a href="~/products/all">All Products</a></li>
+                                        <li><a href="~/products/all">All Products</a></li>
+                                        <li><a href="#">Lorem ipsum dolor </a></li>
+                                        <li><a href="#">Lorem ipsum dolor </a></li>
+                                        <li><a href="#">Lorem ipsum dolor </a></li>
+                                        <li class="divider"></li>
+                                        <li class="dropdown-header">Lorem ipsum dolor </li>
+                                        <li><a href="#">Lorem ipsum dolor </a></li>
+                                        <li><a href="#">Lorem ipsum dolor </a></li>
+                                    </ul>
+                                </li>
+                                <li class="col-sm-3">
+                                    <ul>
+                                        <li class="dropdown-header">Lorem ipsum dolor</li>
+                                        <li><a href="#">Lorem ipsum dolor </a></li>
+                                        <li><a href="#">Lorem ipsum dolor </a></li>
+                                        <li><a href="#">Lorem ipsum dolor </a></li>
+                                        <li><a href="#">Lorem ipsum dolor </a></li>
+                                    </ul>
+                                </li>
+                                <li class="col-sm-3">
+                                    <ul>
+                                        <li class="dropdown-header">Lorem ipsum dolor</li>
+                                        <li><a href="#">Lorem ipsum dolor </a></li>
+                                        <li><a href="#">Lorem ipsum dolor </a></li>
+                                        <li><a href="#">Lorem ipsum dolor </a></li>
+                                        <li><a href="#">Lorem ipsum dolor </a></li>
+                                    </ul>
+                                </li>
+                            </ul>
                         </li>
                         <li class="dropdown mega-dropdown"><a href="~/mediaroom" class="dropdown-toggle" data-toggle="dropdown">Media Room</a>
-                                <ul class="dropdown-menu mega-dropdown-menu row sub-nav">
+                            <ul class="dropdown-menu mega-dropdown-menu row sub-nav">
                                 <li class="col-sm-5">
-                                    <div >
+                                    <div>
                                         <center>
                                             <iframe width="90%"  src="https://www.youtube.com/embed/aoHFooE2ZoI" frameborder="0" allowfullscreen></iframe>
                                         </center>
                                     </div>
                                 </li>
                                 <li class="col-sm-6">
-	                                <ul>
-							            <li class="dropdown-header no-padding">Description</li>
-							        
-                                        <li>  <p>
+                                    <ul>
+                                        <li class="dropdown-header no-padding">Description</li>
+
+                                        <li>
+                                            <p>
                                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent cursus vestibulum eros, non gravida sem cursus sit amet. Nam quis sodales augue. Integer quis dignissim elit.
                                             </p>
 
                                         </li>
-						            </ul>
+                                    </ul>
                                 </li>
                             </ul>
                         </li>
@@ -172,9 +200,7 @@
         </div>
 
 
-        <div class="container-fluid body-content">   
-
-
+        <div class="container-fluid body-content">
             @RenderBody()
 
 
@@ -183,7 +209,7 @@
                     <div class="dot-matrix">
                         <div class="content-bg content-bg-black-dark">
                             <div class="container">
-                            
+
                                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                                     <p class="font-color-white">
                                         <h1>Products</h1>
@@ -222,30 +248,30 @@
                                         <a href="">Contact Us</a><br />
                                     </p>
                                 </div>
-                            
+
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                <div class="dot-matrix">
-                <div class="footerBottom">
-                        <div class="container">
-                            <div class="pull-left">
-                                <p>
-                                &copy   Chandanalepa form Sanjeewaka Ayurwedha, Veyangoda. - @DateTime.Now.Year.ToString()
-                                </p>
+                    <div class="dot-matrix">
+                        <div class="footerBottom">
+                            <div class="container">
+                                <div class="pull-left">
+                                    <p>
+                                        &copy   Chandanalepa form Sanjeewaka Ayurwedha, Veyangoda. - @DateTime.Now.Year.ToString()
+                                    </p>
+                                </div>
+                                <div class="pull-right">
+                                </div>
                             </div>
-                            <div class="pull-right">
-                            </div>                                                      
                         </div>
                     </div>
-                    </div>
-                
+
                 </div>
             </footer>
         </div>
-   </div>
+    </div>
 
     @Scripts.Render("~/bundles/jquery")
     <script src="~/Scripts/jquery.bxslider.js"></script>
@@ -270,17 +296,17 @@
             $('.slider-bx').bxSlider({
                 minSlides: 4,
                 maxSlides: 4,
-                slideWidth:170,
-                slideMargin:80,
+                slideWidth: 170,
+                slideMargin: 80,
                 ticker: true,
                 speed: 35000
             });
             $('#slide-bar').carousel({
-                interval:9000,
+                interval: 9000,
                 duration: 1000
             });
-            
-
+            var tmpUrl = window.location.href;
+            if (tmpUrl.indexOf("home") == -1) $(".js-navbar-collapse").addClass(" set-inner-page-border");
         });
 
     </script>
