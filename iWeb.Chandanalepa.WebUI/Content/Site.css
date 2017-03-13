@@ -190,7 +190,7 @@ textarea {
     /* padding: 10px; */
     color: #fff;
     font-size: 0.7em;
-    margin: -45px 0 0 9px;
+    margin: -20px 0 0 0px;
     line-height: 2.2em;
 }
 
@@ -424,6 +424,7 @@ textarea {
   margin-top: -4px;
   border-radius:0px;
  padding: 3em 6em;
+ min-height:400px;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -557,8 +558,8 @@ textarea {
     background-color: rgba(255, 255, 255, 0.99) !important;
     border-bottom:solid 5px #4b2b16;
     border: none;
-    border-bottom: solid 5px #4b2b16;
-    border-top: solid 2px #028a59;
+    border-bottom: solid 5px #faa61a;
+    border-top: solid 5px #f78a04;
     text-align:left;
      -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
@@ -623,7 +624,7 @@ textarea {
 }
 
 .set-inner-page-border {
-    border-bottom: solid 5px #988459 !important;
+   /* border-bottom: solid 5px #988459 !important;*/
 }
 
 /*-----------*/
@@ -704,9 +705,11 @@ footer .content-bg-black-dark {
 .main-wrapper {
     background-image:none;
     background-repeat: no-repeat;
-    margin-top: -10px;
+    margin-top: 0px;
+    padding-top:10px;
     padding-top: 7px;
     background-size: 94%;
+    /*border-top:5px solid #faa61a;*/
 }
 .body-content iframe {
         border-top: solid 10px #d08200

@@ -6,317 +6,317 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\Users\SachithN\Desktop\WebSite</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\Users\Sachith\Desktop\WebSite1</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="ApplicationInsights.config">
-      <publishTime>02/14/2017 21:09:30</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="bin/Antlr3.Runtime.dll">
-      <publishTime>02/22/2013 08:43:40</publishTime>
+      <publishTime>03/13/2017 00:50:28</publishTime>
     </File>
     <File Include="bin/ApplicationInsights.config">
-      <publishTime>02/14/2017 21:09:30</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="bin/iWeb.Chandanalepa.WebUI.dll">
-      <publishTime>03/06/2017 09:52:31</publishTime>
+      <publishTime>03/13/2017 01:14:06</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
-      <publishTime>11/30/2016 16:07:42</publishTime>
+      <publishTime>03/13/2017 00:50:29</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.DependencyCollector.dll">
-      <publishTime>12/07/2016 11:45:42</publishTime>
+      <publishTime>03/13/2017 00:50:29</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
-      <publishTime>12/07/2016 11:50:34</publishTime>
+      <publishTime>03/13/2017 00:50:29</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
-      <publishTime>12/06/2016 15:15:48</publishTime>
+      <publishTime>03/13/2017 00:50:29</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Web.dll">
-      <publishTime>12/07/2016 11:49:10</publishTime>
+      <publishTime>03/13/2017 00:50:29</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.WindowsServer.dll">
-      <publishTime>12/07/2016 11:50:34</publishTime>
+      <publishTime>03/13/2017 00:50:29</publishTime>
     </File>
     <File Include="bin/Microsoft.ApplicationInsights.dll">
-      <publishTime>12/06/2016 15:09:52</publishTime>
+      <publishTime>03/13/2017 00:50:28</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
-      <publishTime>06/15/2015 02:06:24</publishTime>
+      <publishTime>03/13/2017 00:50:30</publishTime>
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
-      <publishTime>04/23/2012 15:23:58</publishTime>
+      <publishTime>03/13/2017 00:50:30</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
-      <publishTime>04/25/2013 15:40:12</publishTime>
+      <publishTime>03/13/2017 00:50:31</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>03/13/2017 00:50:30</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>03/13/2017 00:50:30</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>03/13/2017 00:50:30</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
-      <publishTime>06/18/2015 20:19:44</publishTime>
+      <publishTime>03/13/2017 00:50:30</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>03/13/2017 00:50:30</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>03/13/2017 00:50:30</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>03/13/2017 00:50:30</publishTime>
     </File>
     <File Include="bin/roslyn/System.Collections.Immutable.dll">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>03/13/2017 00:50:30</publishTime>
     </File>
     <File Include="bin/roslyn/System.Reflection.Metadata.dll">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>03/13/2017 00:50:30</publishTime>
     </File>
     <File Include="bin/roslyn/vbc.exe">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>03/13/2017 00:50:30</publishTime>
     </File>
     <File Include="bin/roslyn/VBCSCompiler.exe">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>03/13/2017 00:50:30</publishTime>
     </File>
     <File Include="bin/roslyn/VBCSCompiler.exe.config">
-      <publishTime>06/18/2015 20:19:46</publishTime>
+      <publishTime>03/13/2017 00:50:30</publishTime>
     </File>
     <File Include="bin/System.Web.Helpers.dll">
-      <publishTime>01/28/2015 04:04:30</publishTime>
+      <publishTime>03/13/2017 00:50:30</publishTime>
     </File>
     <File Include="bin/System.Web.Mvc.dll">
-      <publishTime>01/28/2015 04:02:18</publishTime>
+      <publishTime>03/13/2017 00:50:29</publishTime>
     </File>
     <File Include="bin/System.Web.Optimization.dll">
-      <publishTime>02/11/2014 15:26:04</publishTime>
+      <publishTime>03/13/2017 00:50:29</publishTime>
     </File>
     <File Include="bin/System.Web.Razor.dll">
-      <publishTime>01/28/2015 04:02:32</publishTime>
+      <publishTime>03/13/2017 00:50:29</publishTime>
     </File>
     <File Include="bin/System.Web.Webpages.Deployment.dll">
-      <publishTime>01/28/2015 04:04:30</publishTime>
+      <publishTime>03/13/2017 00:50:30</publishTime>
     </File>
     <File Include="bin/System.Web.Webpages.dll">
-      <publishTime>01/28/2015 04:04:30</publishTime>
+      <publishTime>03/13/2017 00:50:30</publishTime>
     </File>
     <File Include="bin/System.Web.Webpages.Razor.dll">
-      <publishTime>01/28/2015 04:04:30</publishTime>
+      <publishTime>03/13/2017 00:50:30</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
-      <publishTime>07/17/2013 17:03:52</publishTime>
+      <publishTime>03/13/2017 00:50:31</publishTime>
     </File>
     <File Include="Content/bootstrap.css">
-      <publishTime>02/17/2017 10:52:24</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Content/bootstrap.min.css">
-      <publishTime>02/15/2017 13:10:46</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Content/MediaQuery1200.css">
-      <publishTime>02/19/2017 21:46:36</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Content/MediaQuery320.css">
-      <publishTime>02/19/2017 21:31:58</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Content/MediaQuery480.css">
-      <publishTime>02/19/2017 21:31:54</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Content/MediaQuery768.css">
-      <publishTime>02/19/2017 21:33:40</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Content/MediaQuery990.css">
-      <publishTime>02/19/2017 21:46:46</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Content/MediaRoom.css">
-      <publishTime>02/21/2017 09:38:16</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Content/Products.css">
-      <publishTime>02/19/2017 22:28:40</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Content/Site.css">
-      <publishTime>03/06/2017 10:11:00</publishTime>
+      <publishTime>03/13/2017 01:09:29</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.eot">
-      <publishTime>02/14/2017 21:56:42</publishTime>
+      <publishTime>03/13/2017 00:50:26</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.svg">
-      <publishTime>02/14/2017 21:56:42</publishTime>
+      <publishTime>03/13/2017 00:50:26</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.ttf">
-      <publishTime>02/14/2017 21:56:42</publishTime>
+      <publishTime>03/13/2017 00:50:26</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.woff">
-      <publishTime>02/14/2017 21:56:42</publishTime>
+      <publishTime>03/13/2017 00:50:26</publishTime>
     </File>
     <File Include="Global.asax">
-      <publishTime>02/14/2017 21:09:02</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/About/chandanalepa-new-factory-image-01.jpg">
-      <publishTime>02/20/2017 20:57:10</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/About/chandanalepa-new-factory-image-02.jpg">
-      <publishTime>02/20/2017 20:57:44</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/About/chandanalepa-new-factory-image-03.jpg">
-      <publishTime>02/20/2017 20:58:06</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/About/chandanalepa-old-shop-image-01.jpg">
-      <publishTime>02/20/2017 20:51:26</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/About/chandanalepa-old-shop-image-02.jpg">
-      <publishTime>02/20/2017 20:53:34</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/Assets/about-company.jpg">
-      <publishTime>02/18/2017 23:57:42</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/Assets/cnahdanalepa-specialized.png">
-      <publishTime>02/18/2017 23:18:36</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/Assets/content-bg-01.jpg">
-      <publishTime>02/20/2017 22:33:50</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/Assets/content-bg-02.png">
-      <publishTime>02/18/2017 23:59:38</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/Assets/header-bg-wide-2.png">
-      <publishTime>02/18/2017 23:40:18</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/Assets/header-bg-wide.png">
-      <publishTime>02/18/2017 23:44:10</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/Assets/header-home-top.png">
-      <publishTime>02/18/2017 16:15:58</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/Assets/home-slider-bg.jpg">
-      <publishTime>02/18/2017 16:09:02</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/Assets/model-trasparent-1.png">
-      <publishTime>02/19/2017 08:50:46</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/Assets/paragraph-separator - Copy.png">
-      <publishTime>02/18/2017 23:28:40</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/Assets/vision-mission.png">
-      <publishTime>02/19/2017 08:59:28</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/Awards/Ayurveda-expo-2015.jpeg">
-      <publishTime>02/19/2017 13:31:04</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/Awards/Best Young Entrepreneur - 2011 Gampaha Distric.jpg">
-      <publishTime>12/02/2016 14:49:02</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/Awards/Best Young Entrepreneur - 2011.jpg">
-      <publishTime>12/02/2016 14:50:56</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/Awards/MASS LANKA AWARDS.jpg">
-      <publishTime>02/19/2017 13:17:16</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/Awards/SED Awards - Gold Award.jpg">
-      <publishTime>02/19/2017 13:18:26</publishTime>
+      <publishTime>03/13/2017 00:50:24</publishTime>
     </File>
     <File Include="Images/Awards/SLIM SME Sliver Brand Of the Year.jpg">
-      <publishTime>02/19/2017 13:18:02</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Images/footer-top-logo.png">
-      <publishTime>03/04/2017 22:26:30</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Images/JoinUs/joinus-2.jpg">
-      <publishTime>03/03/2017 08:25:34</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Images/JoinUs/receptionist.png">
-      <publishTime>03/03/2017 08:25:34</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Images/logo2.png">
-      <publishTime>02/13/2017 21:29:36</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Images/Products/Chandanalepa-Cream.png">
-      <publishTime>02/19/2017 14:42:36</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Images/Slider/s1.jpg">
-      <publishTime>02/18/2017 14:48:52</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Images/Slider/s1.png">
-      <publishTime>02/18/2017 16:43:14</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Images/Slider/s21.jpg">
-      <publishTime>02/18/2017 14:53:12</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Images/Slider/s3.jpg">
-      <publishTime>02/18/2017 14:54:52</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Images/Slider/sls1.jpg">
-      <publishTime>02/18/2017 15:04:56</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="packages.config">
-      <publishTime>02/18/2017 07:49:12</publishTime>
+      <publishTime>03/13/2017 00:50:28</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
-      <publishTime>02/14/2017 21:56:42</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Scripts/bootstrap.min.js">
-      <publishTime>02/14/2017 21:56:42</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.js">
-      <publishTime>02/14/2017 21:56:42</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.min.js">
-      <publishTime>02/14/2017 21:56:42</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.min.map">
-      <publishTime>02/14/2017 21:56:42</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Scripts/jquery.bxslider.js">
-      <publishTime>07/21/2015 14:46:58</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Scripts/modernizr-2.6.2.js">
-      <publishTime>02/14/2017 21:56:44</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Views/About/Index.cshtml">
-      <publishTime>02/21/2017 10:24:28</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Views/Blog/Index.cshtml">
-      <publishTime>03/03/2017 08:25:34</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Views/Blog/View.cshtml">
-      <publishTime>03/03/2017 08:25:34</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Views/Contact/Index.cshtml">
-      <publishTime>03/03/2017 08:33:26</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>03/04/2017 23:18:12</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Views/JoinUs/Index.cshtml">
-      <publishTime>03/03/2017 08:25:34</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Views/JoinUs/UploadYourResume.cshtml">
-      <publishTime>03/03/2017 08:25:34</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Views/MediaRoom/Index.cshtml">
-      <publishTime>02/28/2017 21:35:44</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Views/Products/All.cshtml">
-      <publishTime>03/03/2017 08:25:34</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Views/Products/View.cshtml">
-      <publishTime>03/03/2017 08:25:34</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>03/06/2017 10:17:20</publishTime>
+      <publishTime>03/13/2017 01:11:20</publishTime>
     </File>
     <File Include="Views/web.config">
-      <publishTime>02/18/2017 09:07:58</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Views/_ViewStart.cshtml">
-      <publishTime>02/14/2017 21:56:38</publishTime>
+      <publishTime>03/13/2017 00:50:25</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>03/06/2017 09:50:05</publishTime>
+      <publishTime>03/13/2017 01:14:07</publishTime>
     </File>
   </ItemGroup>
 </Project>
